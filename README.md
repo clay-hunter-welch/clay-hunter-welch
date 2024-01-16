@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clay-hunter-welch
-- 👀 I’m interested in python as well as the tools and best practices of cloud computing.
-- 🌱 I’m currently learning to leverage python's builtin tools to speed up and simplify complex tasks--list comprehensions, filtering, map, etc.
+- 👀 I’m interested in python, C#, computer vision via OpenCV and machine learning via PyTorch.
+- 🌱 I’m currently learning the way of the machine learning trainer.
 - 📫 How to reach me: clay.hunter.welch@gmail.com
 
 <!---
